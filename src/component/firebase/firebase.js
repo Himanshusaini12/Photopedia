@@ -4,12 +4,13 @@ import firebase from "firebase/compat/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDdIHQVgvrR41zt9OWeqJlG22aZGlMYzKk",
-  authDomain: "photopedia-f1ed4.firebaseapp.com",
-  projectId: "photopedia-f1ed4",
-  storageBucket: "photopedia-f1ed4.appspot.com",
-  messagingSenderId: "1053326425602",
-  appId: "1:1053326425602:web:1a366d7d03bfe96249b11b",
+  apiKey: "AIzaSyBRVpAQgs1X7uj21iN4hQqzW4Hrp2M9Pb8",
+  authDomain: "photopedia-563aa.firebaseapp.com",
+  projectId: "photopedia-563aa",
+  storageBucket: "photopedia-563aa.appspot.com",
+  messagingSenderId: "341186434091",
+  appId: "1:341186434091:web:b8636da4b710e3c67ec66e",
+  measurementId: "G-M3WD61E8PF"
 };
 
 // Initialize Firebase
